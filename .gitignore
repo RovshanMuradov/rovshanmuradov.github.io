@@ -1,0 +1,20 @@
+# Claude settings
+.claude/
+
+# Personal notes and guides
+Job_Search_Guide.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+~*
