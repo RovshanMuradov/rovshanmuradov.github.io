@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export:*)",
+      "Bash(pandoc:*)",
+      "Bash(/Library/TeX/texbin/xelatex:*)"
+    ],
+    "deny": []
+  }
+}
