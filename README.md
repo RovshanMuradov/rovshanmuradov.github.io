@@ -53,11 +53,6 @@ Experienced developer with 3+ years specializing in Go backend development and b
 • Built a modular system that allows rapid integration of new DEX protocols  
 • Established best practices for concurrent programming in high-frequency trading environments  
 
-## OPEN SOURCE CONTRIBUTIONS
-• Active contributor to blockchain and Go ecosystem projects  
-• Maintain open-source trading bot framework with 100+ stars on GitHub  
-• Regular participant in hackathons and blockchain development communities  
-
 ## LANGUAGES
 • **Russian:** Native  
 • **English:** Fluent  
