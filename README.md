@@ -1,7 +1,7 @@
 # ROVSHAN MURADOV
 **Middle Go Developer | Blockchain Specialist**
 
-📧 rovshan2525@gmail.com | 💬 [@prostoRovshan](https://t.me/prostoRovshan) | 📍 Batumi, Georgia | 💻 [github.com/RovshanMuradov](https://github.com/RovshanMuradov)
+Email: rovshan2525@gmail.com | Telegram: [@prostoRovshan](https://t.me/prostoRovshan) | Location: Batumi, Georgia | GitHub: [github.com/RovshanMuradov](https://github.com/RovshanMuradov) | Open to relocation
 
 ## PROFESSIONAL SUMMARY
 Experienced developer with 3+ years specializing in Go backend development and blockchain solutions. Expert in building high-performance concurrent systems, microservices architectures, and DeFi protocols. Proven track record in developing trading systems processing 10,000+ transactions daily with sub-second execution.
